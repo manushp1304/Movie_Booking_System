@@ -1,0 +1,26 @@
+/* <!-- //Manush Patel - FlickPlex Cinemas Movie Booking Application - January 21, 2021
+//CSS File -->*/
+
+#LoginUsername{
+	-fx-background-color: transparent;
+	-fx-border-color: transparent, transparent, white, transparent;
+	-fx-text-fill: white;
+}
+
+#LoginPassword{
+	-fx-background-color: transparent;
+	-fx-border-color: transparent, transparent, white, transparent;
+	-fx-text-fill: white;
+}
+
+/* JavaFX CSS - Leave this comment until you have at least create one rule which uses -fx-Property */
+.green{
+	-fx-background-color: green;
+	-fx-text-fill: white;
+}
+
+.red{
+	-fx-background-color: red;
+	-fx-text-fill: white;
+}
+
